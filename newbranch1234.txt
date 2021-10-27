@@ -1,9 +1,0 @@
-this is new branch 
-<<<<<<< HEAD
-
-
-
-this is edited locally
-=======
-this is remote changes
->>>>>>> ce030deba9b9c1b8f9dccd3250a1e88f76f79641
